@@ -33,7 +33,7 @@
 
 <br />
 
-<!-- Social Media Badges -->
+<!-- Social Media Badges 
 <div align="center">
   <a href="https://www.youtube.com/@vyzzze" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="35" alt="youtube logo" />
@@ -53,8 +53,14 @@
 </div>
 
 <br />
-
+-->
 <!-- GitHub Stats -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=vyzzze&theme=transparent&hide_border=true&locale=de&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=vyzzze&layout=compact&langs_count=6&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=6&theme=transparent)
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vyzzze&theme=transparent&hide_border=true&locale=en" alt="GitHub Streak" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/vyzzze">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyzzze&layout=compact&langs_count=6&theme=transparent&hide_border=true" alt="Top Languages" />
+  </a>
+</div>
