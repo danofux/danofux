@@ -57,6 +57,6 @@
 <!-- GitHub Stats -->
 <div align="center">
 [![GitHub Streak](https://streak-stats.demolab.com?user=vyzzze&theme=transparent&hide_border=true&locale=de&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-&nbsp;
+
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=vyzzze&layout=compact&langs_count=6&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=6&theme=transparent)
 </div>
