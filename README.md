@@ -57,10 +57,10 @@
 <!-- GitHub Stats -->
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vyzzze&theme=transparent&hide_border=true&locale=en" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=danofux&theme=transparent&hide_border=true&locale=en" alt="GitHub Streak" />
   </a>
   &nbsp;
-  <a href="https://github.com/vyzzze">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyzzze&layout=compact&langs_count=6&theme=transparent&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/danofux">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danofux&layout=compact&langs_count=6&theme=transparent&hide_border=true" alt="Top Languages" />
   </a>
 </div>
